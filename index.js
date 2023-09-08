@@ -12,9 +12,9 @@ const nodemailer=require('nodemailer');
 
   const info={
     from:"anilg7887@gmail.com",
-    to:"shubham@kriscent.in",
+    to:"shubham@gmail.com",
     subject:"Nodemailer email application",
-    text:`Welcome To Kriscent`
+    text:`Welcome To Bharat`
   }
 
   transporter.sendMail(info,(err,result)=>{
