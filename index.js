@@ -6,7 +6,7 @@ const nodemailer=require('nodemailer');
     service:"gmail",
     auth:{
         user:"anilg7887@gmail.com",
-        pass:"ymlpdshkpcovbwad"
+        pass:"ymlpdsh.."
     }
   })
 
